@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__doc-parser__parse_markdown",
+      "mcp__websearch__web_search",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(pip install:*)",
+      "Bash(python -m pytest:*)",
+      "Bash(python3 -m pytest:*)",
+      "Bash(pyenv versions:*)",
+      "Bash(pyenv shell:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(PYENV_VERSION=3.11.15 python -m pytest:*)",
+      "Bash(PYENV_VERSION=3.11.15 python:*)",
+      "mcp__doc-parser__submit",
+      "mcp__doc-parser__result"
+    ]
+  }
+}
